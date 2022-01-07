@@ -57,4 +57,15 @@ religion = "🇮🇳"
 
 ### Stats ⚡️
 
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=YadavGulshan&tc=333&ic=333)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yadavgulshan&show_icons=true&theme=react&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yadavgulshan&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff)
+
+![Contribution Stats](https://activity-graph.herokuapp.com/graph?username=yadavgulshan&theme=react-dark&area=true&color=ffffff)
+
+
+
+That's it!<br/>
+Wanna know more?<br/>
+<a href="mailto:yadavgulshan542@gmail.com">Email me!</a>
