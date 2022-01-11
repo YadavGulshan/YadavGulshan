@@ -1,7 +1,7 @@
 ## Namaste 🙏🏻
 
-
 ### Available 👇
+
 <p>
   <a href="https://www.linkedin.com/in/YadavGulshan/">
     <img align="left" alt="YadavGulshan LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,18 +23,16 @@
 </br>
 </br>
 
-
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YadavGulshan/&title=Profile%20Views)
 
-
 ### About 🙋🏻‍♂️
+
 ```python
 name = "YadavGulshan"
 who_i_am = ['Developer','Coder','Engineer','Student','Noobie']
 age = 19
 religion = "🇮🇳"
 ```
-
 
 ### Skills 👨‍💻
 
@@ -54,17 +52,15 @@ religion = "🇮🇳"
 </br>
 </br>
 
-
 ### Stats ⚡️
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yadavgulshan&show_icons=true&theme=react&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yadavgulshan&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff)
-
-![Contribution Stats](https://activity-graph.herokuapp.com/graph?username=yadavgulshan&theme=react-dark&area=true&color=ffffff)
-
-
+<div style="row-gap: 0.875rem;">
+        <div style="margin-bottom: 0.5rem;">
+            <img width="49.5%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yadavgulshan&show_icons=true&theme=react&title_color=ffffff&text_color=c9cacc&icon_color=5bcdec&bg_color=0d1117" />
+            <img width="49.5%" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavgulshan&theme=react&ring=ffffff&fire=ffffff&text_color=ffffff&background=0d1117&border=ffffff" />
+        </div>
+        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=yadavgulshan&theme=react-dark&area=true&color=ffffff" alt="Github Contribution Graph">
+    </div>
 
 That's it!<br/>
 Wanna know more?<br/>
