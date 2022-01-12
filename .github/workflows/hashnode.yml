@@ -1,0 +1,25 @@
+name: "📚 latest Blog"
+
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */24 * *" 
+
+jobs:
+  update_blogs:
+    name: "Update with latest blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        with:
+          USERNAME: "YadavGulshan"
+          COUNT: 5
+          STYLE: "blog-left"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
