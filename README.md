@@ -66,6 +66,6 @@ religion = "🇮🇳"
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
-That's it!<br/>
+**That's it!**<br/>
 Wanna know more?<br/>
 <a href="mailto:yadavgulshan542@gmail.com">Email me!</a>
