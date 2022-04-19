@@ -59,5 +59,5 @@ religion = "🇮🇳"
 
 
 <p align="center">
-  <b>Head <a href="mailto:yadavgulshan542@gmail.com">over here</a> to engage with me. I'll be happy to hear from you. 😄</b>
+  <b>Head <a href="mailto:gulshan@duck.com">over here</a> to engage with me. I'll be happy to hear from you. 😄</b>
 </p>
